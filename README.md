@@ -13,7 +13,7 @@
 In just over a day we designed and implemented a website for packaging staff. As the staff mostly use small devices, we designed the website for **mobile use**. Based on order information which contains item dimensions, the app uses an algorithm to show the user the smallest box/boxes they will need to pack the order. It also takes into consideration of items' weight and the box's weight limit. The algorithm also adds extra padding to fragile items to make sure they fit in the box. To help the user on how to pack the box, the app also contains **3D visualization** of the box and its items.
 
 The app was presented to **Veeqo** on the final day of the Hackathon.  
-[http://packathon.herokuapp.com/](https://packathon.fly.dev/)
+[https://packathon.fly.dev/](https://packathon.fly.dev/)
 
 #### Tech stack:
   <a href="https://www.ruby-lang.org/en/" target="_blank">
